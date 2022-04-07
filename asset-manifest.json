@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Language-Cards/static/css/main.50a7ad6f.css",
+    "main.js": "/Language-Cards/static/js/main.fc016049.js",
+    "static/js/787.6c3fad03.chunk.js": "/Language-Cards/static/js/787.6c3fad03.chunk.js",
+    "static/media/php.png": "/Language-Cards/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/Language-Cards/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/go.png": "/Language-Cards/static/media/go.a0b3b49ab90e11213e6d.png",
+    "static/media/css.png": "/Language-Cards/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/Language-Cards/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/Language-Cards/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/java.png": "/Language-Cards/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/Language-Cards/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
+    "index.html": "/Language-Cards/index.html",
+    "main.50a7ad6f.css.map": "/Language-Cards/static/css/main.50a7ad6f.css.map",
+    "main.fc016049.js.map": "/Language-Cards/static/js/main.fc016049.js.map",
+    "787.6c3fad03.chunk.js.map": "/Language-Cards/static/js/787.6c3fad03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a7ad6f.css",
+    "static/js/main.fc016049.js"
+  ]
+}
